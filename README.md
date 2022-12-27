@@ -1,6 +1,10 @@
 ### Hi there, I'm Gabriela 👋
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744A0&width=435&lines=+I'm+a+Junior+Full+Stack+Developer+)](https://git.io/typing-svg)
+ 
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
