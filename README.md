@@ -13,6 +13,10 @@
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielaSpace&theme=dark)](https://git.io/streak-stats)
+
+
+
 
 
 
