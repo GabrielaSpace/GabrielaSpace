@@ -28,7 +28,7 @@
 ## 📫 How to reach me:
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=GabrielaSpace.id&left_color=lightfuchsia&right_color=blue)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=GabrielaSpace.id&left_color=lilac&right_color=blue)
 
 
 
