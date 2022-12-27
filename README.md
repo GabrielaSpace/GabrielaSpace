@@ -19,9 +19,9 @@
 
 - 🌱 I’m currently learning:
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS)](https://github.com/harish-sethuraman/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SAAS)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Html)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Css)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Saas)](https://github.com/harish-sethuraman/readme-components)
 
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Bootstrap)](https://github.com/harish-sethuraman/readme-components)
