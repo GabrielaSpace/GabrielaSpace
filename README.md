@@ -28,6 +28,7 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)
 
 
+https://visitor-badge.glitch.me/badge?page_id=GabrielaSpace.visitor-badge
 
 
 
