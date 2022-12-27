@@ -15,7 +15,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielaSpace&theme=radical)](https://git.io/streak-stats)
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin)
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html)](https://github.com/harish-sethuraman/readme-components)
 
