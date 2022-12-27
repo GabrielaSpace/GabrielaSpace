@@ -13,7 +13,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielaSpace&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielaSpace&theme=radical)](https://git.io/streak-stats)
 
 
 
