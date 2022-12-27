@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning:
+## Headline H2- 🌱 I’m currently learning:
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Html)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Css)](https://github.com/harish-sethuraman/readme-components)
@@ -27,8 +27,6 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Bootstrap)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)
 
-
-https://visitor-badge.glitch.me/badge?page_id=GabrielaSpace.visitor-badge
 
 
 
