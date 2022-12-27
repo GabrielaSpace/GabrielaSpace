@@ -15,7 +15,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielaSpace&theme=radical)](https://git.io/streak-stats)
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin)
+
+
+- 🌱 I’m currently learning:
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)
 
@@ -24,6 +26,8 @@
 
 <!--
 **GabrielaSpace/GabrielaSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin)
 
 Here are some ideas to get you started:
 
