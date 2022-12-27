@@ -10,9 +10,6 @@
 
 
 
-<a href="https://github.com/GabrielaSpacegithub-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielaSpace&repo=github-readme-stats" />
-</a>
 
 
 
