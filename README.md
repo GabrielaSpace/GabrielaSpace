@@ -17,7 +17,7 @@
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin)
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)
 
 
 
