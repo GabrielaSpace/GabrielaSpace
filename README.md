@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriela ![image](https://user-images.githubusercontent.com/118684159/209736757-3d24bbf6-6b70-4cda-ba2f-7ad8823fa738.png)
+# Hi there, I'm Gabriela
 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744A0&width=435&lines=+I'm+a+Junior+Full+Stack+Developer+)](https://git.io/typing-svg)
