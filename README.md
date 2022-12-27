@@ -9,6 +9,11 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSpace&layout=compact)](https://github.com/GabrielaSpace/github-readme-stats)
+
+
+
+
 
 
 
