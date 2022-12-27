@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriela 👋
+# Hi there, I'm Gabriela 👋
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744A0&width=435&lines=+I'm+a+Junior+Full+Stack+Developer+)](https://git.io/typing-svg)
  
@@ -17,7 +17,7 @@
 
 
 
-## Headline H2- 🌱 I’m currently learning:
+## 🌱 I’m currently learning:
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Html)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Css)](https://github.com/harish-sethuraman/readme-components)
