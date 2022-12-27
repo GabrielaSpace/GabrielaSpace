@@ -4,8 +4,8 @@
  
  
  
+![GabrielaSpace's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaSpace&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielaSpace&repo=github-readme-stats)]
 
 
 <!--
