@@ -28,7 +28,7 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)
 
 ## 📫 How to reach me:
-
+<a href="https://www.linkedin.com/in/gabrielags7"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=GabrielaSpace.id&left_color=DeepPink&right_color=DarkSlaveBlue)
 
