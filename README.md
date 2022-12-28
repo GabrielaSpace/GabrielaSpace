@@ -1,19 +1,20 @@
-# Hi there, I'm Gabriela
+# Hi there :raised_hand_with_fingers_splayed:, I'm Gabriela 	 	:woman_office_worker: :computer: 
 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744A0&width=435&lines=+I'm+a+Junior+Full+Stack+Developer+)](https://git.io/typing-svg)
  
  
+ ## :bar_chart: My Statistics
  
 ![GabrielaSpace's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaSpace&show_icons=true&theme=radical)
 
 
 
-
+## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSpace&layout=compact)](https://github.com/GabrielaSpace/github-readme-stats)
 
 
-
+## 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielaSpace&theme=radical)](https://git.io/streak-stats)
 
 
