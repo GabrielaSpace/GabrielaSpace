@@ -1,4 +1,4 @@
-# Hi there :raised_hand_with_fingers_splayed:, I'm Gabriela 	 	:woman_office_worker: :computer: 
+# Hi there :wave:, I'm Gabriela 	 	:woman_office_worker: :computer: 
 
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744A0&width=435&lines=+I'm+a+Junior+Full+Stack+Developer+)](https://git.io/typing-svg)
