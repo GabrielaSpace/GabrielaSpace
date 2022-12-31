@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSpace&layout=compact)](https://github.com/GabrielaSpace/github-readme-stats)
 
 
-## 
+## Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielaSpace&theme=radical)](https://git.io/streak-stats)
 
 
