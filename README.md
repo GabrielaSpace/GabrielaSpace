@@ -1,7 +1,7 @@
 # Hi there 	&#128075;&#127996;, I'm Gabriela 	 	&#128105;&#127995;&#8205;&#128188; :computer: 
 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744A0&width=435&lines=+I'm+a+Full+Stack+Developer+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744A0&width=435&lines=+I'm+a+Front+End+Developer+)](https://git.io/typing-svg)
  
  
  ## :bar_chart: My Statistics
