@@ -16,10 +16,10 @@
 
 
 
-## 🌱 I’m currently learning:
+## Skills
 
 
-### Skills
+
 
 
 <p align="left">
